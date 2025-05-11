@@ -20,9 +20,12 @@ You can find the processed data and source-code for the reporting/processing of 
 
 ## Report content
 
+The reports are in CSV-format.
+
 ### Report info
 
 * **ip**: Reported IP
+* **ip_an**: If the reported IP has been anonymized
 * **cmt**: Reported comment
 * **cat**: Reported category
 * **time**: Time the report was received
