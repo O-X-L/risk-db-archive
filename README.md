@@ -30,7 +30,7 @@ You can find the processed data and source-code for the reporting/processing of 
 ### Reporter info
 
 * **by**: Anonymized reporter IP (*IP4: /24, IP6: /56*)
-* **fp**: JA4 client TLS-fingerprint of the reporter
+* **fp**: [JA4 client TLS-fingerprint](https://github.com/O-X-L/haproxy-ja4) of the reporter
 * **user**: Short-Hash of the user that sent the report (*when a token was used*)
 
 ----
