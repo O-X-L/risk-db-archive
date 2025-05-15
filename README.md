@@ -22,7 +22,7 @@ You can find the processed data and source-code for the reporting/processing of 
 
 The reports are in CSV-format.
 
-The report-values are de-duplicated to keep them as compact as possible. The ID's inside the report columns reference the lookup-tables contained in the `dedupe` directory.
+The report-values are de-duplicated to keep them as compact as possible. The ID's inside the report columns reference the lookup-tables contained in the `dedupe` directory. You can run the `redupe.py` script to revert all reports to their original state.
 
 ### Report info
 
