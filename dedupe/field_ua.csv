@@ -19482,7 +19482,15 @@ Key,Value
 19480,Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; ChatGPTUser/1.0; +https://openai.com/bot
 19481,Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot Chrome/119.0.6045.214 Safa
 19482,Mozilla/5.0 X11; U; Linux x86_64; enUS; rv:1.9.2.9 Gecko/20100915 Gentoo Firefox/3.6.9
-19483,curl/7.29.0
-19484,Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:130.0 Gecko/20100101 Firefox/130.0
-19485,'Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbo
-19486,'Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/123.0.6312.86 Safari
+19483,Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/99.0.4859.172 Safari/537.36
+19484,Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE
+19485,curl/7.29.0
+19486,Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:130.0 Gecko/20100101 Firefox/130.0
+19487,'Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbo
+19488,'Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/123.0.6312.86 Safari
+19489,Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/125.0.6422.60 Safari/537.36
+19490,Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/134.0.6998.35 Safari/537.36
+19491,Pythonurllib/3.12
+19492,Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/111.0.5563.19 Safari/537.36
+19493,Wget/1.9.1
+19494,Mozilla/5.0 compatible; MJ12bot/v2.0.2; http://mj12bot.com/
