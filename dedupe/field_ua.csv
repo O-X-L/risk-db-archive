@@ -19492,5 +19492,10 @@ Key,Value
 19490,Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/134.0.6998.35 Safari/537.36
 19491,Pythonurllib/3.12
 19492,Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/111.0.5563.19 Safari/537.36
-19493,Wget/1.9.1
-19494,Mozilla/5.0 compatible; MJ12bot/v2.0.2; http://mj12bot.com/
+19493,Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/81.0.4044.92 Safari/537.36
+19494,Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/89.0.4389.90 Safari/537.36
+19495,Wget/1.9.1
+19496,Mozilla/5.0 compatible; MJ12bot/v2.0.2; http://mj12bot.com/
+19497,Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/136.0.0.0 Safari/537.36
+19498,Mozilla/5.0 compatible; CensysInspect/1.1; +https://about.censys.io/
+19499,Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/92.0.4515.159 Safari/537.36
